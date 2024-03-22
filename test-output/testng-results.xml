@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-13T15:41:31 IST" name="Default suite" finished-at="2024-03-13T15:41:40 IST" duration-ms="8676">
+    <groups>
+    </groups>
+    <test started-at="2024-03-13T15:41:31 IST" name="Default test" finished-at="2024-03-13T15:41:40 IST" duration-ms="8676">
+      <class name="Parameters.SuiteDemo">
+        <test-method is-config="true" signature="extentLaunch()[pri:0, instance:Parameters.SuiteDemo@4be29ed9]" started-at="2024-03-13T15:41:31 IST" name="extentLaunch" finished-at="2024-03-13T15:41:31 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentLaunch -->
+        <test-method signature="verifyurl()[pri:0, instance:Parameters.SuiteDemo@4be29ed9]" started-at="2024-03-13T15:41:31 IST" name="verifyurl" finished-at="2024-03-13T15:41:40 IST" duration-ms="8648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyurl -->
+        <test-method is-config="true" signature="findOper()[pri:0, instance:Parameters.SuiteDemo@4be29ed9]" started-at="2024-03-13T15:41:40 IST" name="findOper" finished-at="2024-03-13T15:41:40 IST" duration-ms="548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findOper -->
+      </class> <!-- Parameters.SuiteDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
