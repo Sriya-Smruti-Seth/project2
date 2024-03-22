@@ -18,7 +18,7 @@ public class priorities {
 	public void data() {
 		driver.findElement(By.id("username")).sendKeys("sriyaseth");
 		driver.findElement(By.id("password")).sendKeys("Sriya@86");
-		driver.findElement(By.id("login")).click();
+		//driver.findElement(By.id("login")).click();
 	}
 	@Test(priority='2')
 	public void adata() {
